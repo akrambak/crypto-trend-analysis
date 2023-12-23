@@ -15,9 +15,9 @@ Describe the steps to install your project. For example:
 ```bash
 git clone https://github.com/your-username/crypto-correlation-analysis.git
 cd crypto-correlation-analysis
-# further installation steps
+```bash
 
-Contributing
+## Contributing
 Encourage contributions and collaboration. For example:
 
 Fork the Project: Start by forking the repo, and then clone it locally.
