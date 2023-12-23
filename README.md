@@ -20,16 +20,19 @@ cd crypto-correlation-analysis
 ## Contributing
 Fork the Project: Start by forking the repo, and then clone it locally.
 
-Create a Branch: ```bash
+### Create a Branch: 
+```bash
 git checkout -b your-new-feature
 ```
-Commit Changes: ```bash
+### Commit Changes: 
+```bash
 git commit -m 'Add some feature'
 ```
-Push to the Branch: ```bash
+### Push to the Branch: 
+```bash
 git push origin your-new-feature
 ```
-Open a Pull Request
+### Open a Pull Request
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
