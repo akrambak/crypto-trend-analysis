@@ -16,3 +16,26 @@ Describe the steps to install your project. For example:
 git clone https://github.com/your-username/crypto-correlation-analysis.git
 cd crypto-correlation-analysis
 # further installation steps
+
+Contributing
+Encourage contributions and collaboration. For example:
+
+Fork the Project: Start by forking the repo, and then clone it locally.
+Create a Branch: git checkout -b your-new-feature
+Commit Changes: git commit -m 'Add some feature'
+Push to the Branch: git push origin your-new-feature
+Open a Pull Request
+License
+Specify the license under which your project is made available. For example:
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Acknowledgments
+List any contributors, third-party libraries, or other resources that you used in your project.
+Contact
+Your Name - @YourTwitterHandle
+Project Link: https://github.com/your-username/crypto-correlation-analysis
+
+Additional Sections
+Project Status: Information about the current state of the project.
+Roadmap: Future plans and enhancements.
+FAQs: Common questions and answers.
